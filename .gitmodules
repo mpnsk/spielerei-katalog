@@ -1,3 +1,6 @@
 [submodule "spielerei-katalog-frontend"]
 	path = spielerei-katalog-frontend
 	url = https://github.com/mpnsk/spielerei-katalog-frontend
+[submodule "spielerei-katalog-backend"]
+	path = spielerei-katalog-backend
+	url = https://github.com/mpnsk/spielerei-katalog-backend
